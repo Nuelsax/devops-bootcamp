@@ -3,7 +3,7 @@
 
 ## Documentation
 
-Setting up of ubuntu server has been discussed in previous project check [**Project1**](https://github.com/StrangeJay/devops-beginner-bootcamp/blob/main/project1/project1.md) for guidance on spinning up an Ubuntu server, as well as creating and associating an elastic IP address with your server, among other tasks.
+Setting up of ubuntu server has been discussed in previous project check [**Project1**](https://github.com/Nuelsax/devops-bootcamp/blob/main/project1/project1.md) for guidance on spinning up an Ubuntu server, as well as creating and associating an elastic IP address with your server, among other tasks.
 
 - Spin up your ubuntu server, create an elastic IP and associate it to your instance.
 
