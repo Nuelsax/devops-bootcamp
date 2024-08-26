@@ -128,8 +128,6 @@ server {
 `sudo ln -s /etc/nginx/sites-available/wedding /etc/nginx/sites-enabled/`
 `sudo ln -s /etc/nginx/sites-available/interior /etc/nginx/sites-enabled/`
 
-![9](img/9.png)
-
 - Run the **`sudo nginx -t`** command to check the syntax of the Nginx configuration file.
 
 - Delete the default files in the sites-available and sites-enabled directories by executing the following commands:
