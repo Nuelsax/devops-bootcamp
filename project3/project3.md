@@ -165,13 +165,13 @@ server {
 
 ![14](img/14.png)
 
-`sudo ln -s /etc/nginx/sites-available/finance /etc/nginx/sites-enabled/`
+`sudo ln -s /etc/nginx/sites-available/wedding /etc/nginx/sites-enabled/`
 
-![8](img/8.png)
+![8](img/13.png)
 
 - Run the `sudo nginx -t` command to check the syntax of the Nginx configuration file, and when successful run the `sudo systemctl restart nginx` command.
 
-![9](img/9.png)
+![9](img/13.png)
 
 - Repeat the process for the second website.
 
